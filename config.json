@@ -5,7 +5,7 @@
   "coinUnits": 100000000,
   "coinDecimalPlaces": 8,
   "coinDifficultyTarget": 150,
-  "daemonType": "default",
+  "daemonType": "snowflake",
   "cnAlgorithm": "chukwa",
   "cnVariant": 2,
   "cnBlobType": 0,
